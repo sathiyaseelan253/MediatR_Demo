@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsmqN0yjMc3wLe5aTwFTntNyL6qN5zLsF5p13fiUxZvuRrnGciizpQlPE19Shsfg5zqK3SVAdAPCJ2HhJmnBQA==",
+  "success": true,
+  "projectFilePath": "D:\\E drive\\Asp Net Core\\MediatR_Demo\\MediatR_Demo.Core\\MediatR_Demo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
